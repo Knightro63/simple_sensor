@@ -1,3 +1,7 @@
+## 0.1.8
+
+* Upgraded android for compatibility with AGP <4.2.
+
 ## 0.1.7
 
 * more adaptions to rotation update
